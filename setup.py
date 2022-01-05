@@ -7,7 +7,8 @@ setup(
     author_email='yjg30737@gmail.com',
     license='MIT',
     packages=find_packages(),
-    description='PyQt QSlider with QLabel(QLabel is on the left side, QSlider is on the right side, horizontal direction only)',
+    description='PyQt QSlider with QLabel(QLabel is on the left side, QSlider is on the right side, horizontal direction only) '
+                'QLabel\'s value synchronize with QSlider\'s value.',
     url='https://github.com/yjg30737/pyqt-label-slider.git',
     install_requires=[
         'PyQt5>=5.8'
