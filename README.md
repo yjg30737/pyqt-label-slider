@@ -1,5 +1,5 @@
 # pyqt-label-slider
-PyQt QSlider with QLabel(QLabel is on the left side, QSlider is on the right side, horizontal direction only) QLabel's value synchronize with QSlider's value.
+PyQt QSlider with QLabel(QLabel is on the left side, QSlider is on the right side, horizontal direction only) QLabel's value synchronizes with QSlider's value.
 
 ## Requirements
 PyQt5 >= 5.8
