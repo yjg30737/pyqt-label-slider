@@ -5,11 +5,11 @@ PyQt QSlider with QLabel(QLabel is on the left side, QSlider is on the right sid
 PyQt5 >= 5.8
 
 ## Setup
-```pip3 install git+https://github.com/yjg30737/pyqt-label-slider.git --upgrade```
+`python pip -m install pyqt-label-slider`
 
 ## Usage
-* ```getSlider()``` to get QSlider.
-* ```getLabel()``` to get QLabel.
+* `getSlider()` to get QSlider.
+* `getLabel()` to get QLabel.
 
 ## Note
 * Tick interval is set at 10.
